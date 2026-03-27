@@ -2,9 +2,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Zidan+👋;Beginner+Web+Developer;Always+Learning+New+Things🚀;Welcome+To+My+Github" />
+</p>
 
-# 💫 About Me:
-Hi! I'm Zidan 👋  
+# 💫 About Me:  
 I'm a passionate Beginner Web Developer from Indonesia.  
 I build modern web applications using Laravel and Next.js, and I'm currently exploring mobile app development with Flutter.  
 Right now, I'm focusing on improving my skills in mobile development and UI/UX design.
@@ -43,14 +45,12 @@ Tech: Frontend->Next.js, Typescript, TailwindCSS
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwind-css)
 ![Next JS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js)
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel)
-![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
@@ -61,14 +61,19 @@ Tech: Frontend->Next.js, Typescript, TailwindCSS
 ### 🎨 Tools
 ![Figma](https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zidanhp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=zidanhp&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanhp&theme=dark&hide_border=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zidanhp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=zidanhp&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zidanhp&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
 
 ---
 
@@ -101,5 +106,5 @@ Tech: Frontend->Next.js, Typescript, TailwindCSS
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zidanhp&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=zidanhp&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
