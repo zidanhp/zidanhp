@@ -1,32 +1,105 @@
+<!-- Banner / GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
 # 💫 About Me:
-
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pzidan050@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zidanhp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zidanhp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanhp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hi! I'm Zidan 👋  
+I'm a passionate Beginner Web Developer from Indonesia.  
+I build modern web applications using Laravel and Next.js, and I'm currently exploring mobile app development with Flutter.  
+Right now, I'm focusing on improving my skills in mobile development and UI/UX design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zidanhp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**zidanhp/zidanhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects:
 
-Here are some ideas to get you started:
+### 📅 Mahasigma Reservation System
+🔗 https://github.com/zidanhp/MAHASIGMA-RESERVATION.git  
+A web-based futsal field reservation application with scheduling and pricing management features.
+Tech: PHP, MySQL, TailwindCSS
+*Collaborative project*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎸 Alat Musik Rental App
+🔗 https://github.com/andikadwia/AlatMusik.git  
+A web application for renting musical instruments with admin dashboard and product management.  
+Tech: Laravel, TailwindCSS, MySQL  
+*Collaborative project*
+
+---
+
+### 🏫 HR Yayasan Darussalam System
+🔗 https://github.com/yudaahscwlth/HR-Yayasan-Darussalam-Batam.git 
+A web-based human resource (HR) management system for a foundation with multi-role authentication, user management, and Progressive Web App (PWA) support.
+Tech: Frontend->Next.js, Typescript, TailwindCSS
+      Backend->Laravel, Laravel Sanctum, MySQl
+*Collaborative project*
+
+---
+
+## 🚀 Skills & Tech Stack:
+
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwind-css)
+![Next JS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel)
+![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
+
+### 🎨 Tools
+![Figma](https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zidanhp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=zidanhp&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanhp&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🌐 Social Media:
+- 📧 Email: [pzidan050@gmail.com](mailto:pzidan050@gmail.com)
+- 💼 LinkedIn: ()
+- 🐦 Twitter: (Belum ada)
+- 🌍 Portfolio: (Belum ada)
+
+---
+
+## 🎯 Goals:
+- Become a professional Full-Stack Developer
+- Become a professional Mobile Developer
+- Build my own tech startup
+
+---
+
+## 😄 Fun Facts:
+- 💡 I enjoy turning ideas into real applications
+- 🎨 I like designing UI and Frontend coding
+- 🚀 Always curious about new tech
+
+---
+
+## 💬 Quote:
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=zidanhp&icon=0&color=0" />
+</p>
